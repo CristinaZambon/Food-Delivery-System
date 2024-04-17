@@ -2,7 +2,7 @@
 The program implements the back-end of a food delivery system.
 All classes are contained in the package delivero. The main class is Delivery. The class TestApp TestApp in the package example contains an example of use of the Delivery class. Exceptions are generated through the class DeliveryException.
 
-It is possible to access the Java API Documentation.
+It accesses the Java API Documentation.
 
 ## R1 Restaurants
 
